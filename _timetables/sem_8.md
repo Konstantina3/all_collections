@@ -14,11 +14,6 @@ timetable:
     author: pkour
     location: "Εξ αποστάσεως"
   - day: "Δευτέρα"
-    time: 15
-    course: information-systems-security-management
-    author: atsohou
-    location: "Εξ αποστάσεως"
-  - day: "Δευτέρα"
     time: 17
     course: semantic-and-social-web
     author: mmarag
@@ -93,8 +88,8 @@ timetable:
     location: "Εξ αποστάσεως"
   - day: "Πέμπτη"
     time: 15
-    course: speech-processing
-    author: karydis
+    course: information-systems-security-management
+    author: atsohou
     location: "Εξ αποστάσεως"
   - day: "Πέμπτη"
     time: 17
@@ -118,14 +113,19 @@ timetable:
     author: fmylonas
     location: "Εξ αποστάσεως"
   - day: "Παρασκευή"
+    time: 13
+    course: information-systems-security-management
+    author: atsohou
+    location: "Εξ αποστάσεως"
+  - day: "Παρασκευή"
     time: 15
     course: compilers
     author: mistral
     location: "Εξ αποστάσεως"
   - day: "Παρασκευή"
-    time: 17
-    course: parallel-programming
-    author: mistral
+    time: 15
+    course: information-systems-security-management
+    author: atsohou
     location: "Εξ αποστάσεως"
   - day: "Παρασκευή"
     time: 19
