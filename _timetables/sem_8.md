@@ -76,11 +76,7 @@ timetable:
     author: "Κ. Βόγκλης"
     location: "Εξ αποστάσεως"
 
-  - day: "Πέμπτη"
-    time: 9
-    course: information-systems-security-management
-    author: atsohou
-    location: "Εξ αποστάσεως"
+  
   - day: "Πέμπτη"
     time: 11
     course: strategic-management-of-information-systems
@@ -123,7 +119,7 @@ timetable:
     author: mistral
     location: "Εξ αποστάσεως"
   - day: "Παρασκευή"
-    time: 15
+    time: 17
     course: information-systems-security-management
     author: atsohou
     location: "Εξ αποστάσεως"
