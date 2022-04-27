@@ -25,11 +25,6 @@ timetable:
     location: "Εξ αποστάσεως"
 
   - day: "Τρίτη"
-    time: 9
-    course: information-systems-security-management
-    author: atsohou
-    location: "Εξ αποστάσεως"
-  - day: "Τρίτη"
     time: 11
     course: introduction_to_e-government
     author: pkour
